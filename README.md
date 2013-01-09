@@ -10,6 +10,13 @@ If you do not wish to use Package Control, clone this repository directly into t
 
     git clone https://github.com/danro/refined-theme.git "Theme - Refined"
 
+**Manual Install**
+
+    1) Click on the "Download this repository as a .zip" icon
+    2) Open your Packages Folder by going to the "Preferences -> Browse Packages..." menu option
+    3) Extract the .zip archive from step 1 into the folder for step 2
+    4) Rename the folder to "Theme - Refined" (make sure there is a space between the hyphen on both sides)
+
 ### Example User Settings
 
     // Hybrid
